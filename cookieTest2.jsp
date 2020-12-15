@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>쿠키관리 2번째[jquery API활용하기]</title>
+<title>쿠키관리 2번째 test[jquery API활용하기]</title>
 <style type="text/css">
 	#d_cookie{
 		border: 1px solid black;
